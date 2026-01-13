@@ -100,6 +100,16 @@ customer-churn-analysis/
 
 The full analysis, code, and visualisations can be found in the `notebooks/` directory.
 
+## Exploratory Data Analysis
+
+The exploratory analysis was conducted in Python using a Jupyter Notebook:
+
+- [Churn EDA Notebook](notebooks/churn_eda.ipynb)
+
+The notebook covers churn rate analysis, customer segmentation, and the
+development of a rule-based churn risk score.
+
+
 ## Dashboard Preview
 
 ### Customer Churn Overview
