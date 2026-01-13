@@ -99,3 +99,14 @@ customer-churn-analysis/
 ```
 
 The full analysis, code, and visualisations can be found in the `notebooks/` directory.
+
+## Dashboard Preview
+
+### Customer Churn Overview
+![Customer Churn Overview](powerbi/dashboard_screenshots/churn_overview.png)
+
+### Key Drivers of Customer Churn
+![Key Drivers of Customer Churn](powerbi/dashboard_screenshots/churn_drivers.png)
+
+### High-Risk Customers for Retention Action
+![High-Risk Customers](powerbi/dashboard_screenshots/high_risk_customers.png)
