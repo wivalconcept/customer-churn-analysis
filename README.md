@@ -64,6 +64,7 @@ The objective of this analysis is to:
 * **Short-tenure customers** (less than 12 months) are more likely to churn.
 * Higher **monthly charges** are associated with increased churn probability.
 * Customers with **multiple support tickets** show elevated churn risk.
+* Customers classified as High Risk exhibit significantly higher churn compared to Medium and Low Risk segments.
 
 (Detailed analysis and visualisations are available in the Jupyter notebook.)
 
